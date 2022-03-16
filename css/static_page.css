@@ -1,0 +1,11 @@
+#main-wrapper {
+    width: 100% !important;
+}
+
+#sidebar-wrapper,
+#PopularPosts1,
+#Label1,
+#sidebar-sticky {
+    display: none!important;
+    visibility: hidden!important;
+}
